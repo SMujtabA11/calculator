@@ -1,0 +1,165 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    box-sizing: border-box;
+}
+#container
+{
+    width: 250px;
+    height:350px;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color:rgb(109, 106, 106);
+    margin: 150px 600px;
+    padding: 5px;
+    position: relative;
+    box-shadow: 2px 5px 20px grey;
+  
+}
+#screen
+{
+    width: 240px;
+    height: 50px;
+    background-color:lightslategray;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+button{
+    width: 50px;
+    height: 40px;
+    color: white;
+    margin: 5px;
+    margin: 2px;
+    border-radius: 5px;
+}
+button:hover
+{
+    background-color: gray;
+    
+}
+#b1
+{
+    color: white;
+    background-color: red;
+    width:120px;
+    height:35px;
+    border-radius: 7px;
+}
+#b3{
+    position: absolute;
+    top:60px;
+    right:5px;
+}
+#b2
+{
+    position: absolute;
+    top:60px;
+    right:65px;
+    
+}
+#b4
+{
+    position: absolute;
+    top:110px;
+    right:5px;
+}
+#b5
+{
+    position: absolute;
+    top:160px;
+    right:5px;
+    height:100px;
+}
+#b6
+{
+    position: absolute;
+    top:280px;
+    right:5px;
+    background-color: blue;
+   
+}
+#b7
+{
+    position: absolute;
+    top:110px;
+    left:5px;
+  
+}
+#b8
+{
+    position: absolute;
+    top:110px;
+    left:70px;
+   
+}
+#b9
+{
+    position: absolute;
+    top:110px;
+    left:130px;
+    
+}
+#b10
+{
+    position: absolute;
+    top:165px;
+    left:5px;
+  
+}
+#b11
+{
+    position: absolute;
+    top:165px;
+    left:70px;
+  
+}
+#b12
+{
+    position: absolute;
+    top:165px;
+    left:130px;
+   
+}
+#b13
+{
+    position: absolute;
+    top:220px;
+    left:5px;
+    
+}
+#b14
+{
+    position: absolute;
+    top:220px;
+    left:70px;
+ 
+}
+#b15
+{
+    position: absolute;
+    top:220px;
+    left:130px;
+ 
+}
+#b16
+{
+    position: absolute;
+    top:280px;
+    left:5px;
+  
+}
+#b17
+{
+    position: absolute;
+    top:280px;
+    left:70px;
+}
+#b18
+{
+    position: absolute;
+    top:280px;
+    left:130px;
+  
+}
